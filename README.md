@@ -47,6 +47,30 @@ flask run
 # 6. Open your browser and go to
 # http://127.0.0.1:5000/
 
+---
 
+## 💻 Usage
+1. Paste your code into the text area.  
+2. Select a programming language.  
+3. Click **Debug** to get instant AI-generated insights and fixes.  
 
+---
 
+## 🧠 Future Improvements
+- Integrate syntax highlighting (e.g., CodeMirror or Monaco Editor)  
+- Add code execution sandbox for test runs  
+- Include support for more languages (C++, Go, Rust)  
+- Save debug history per user session  
+- Host on Render or Railway for public access  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** — feel free to use and modify it.
+
+---
+
+## 👩‍💻 Author
+**Nitya Ramireddy**  
+*Computer Science @ Purdue University*  
+📧 nitya.ramireddy@gmail.com
