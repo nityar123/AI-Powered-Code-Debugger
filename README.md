@@ -26,7 +26,7 @@ Built with **Python**, **Flask**, and the **OpenAI API**, it supports multiple p
 
 ## ⚙️ Installation & Setup
 
-## 1. Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/<your-username>/ai_code_debugger.git
 cd ai_code_debugger
