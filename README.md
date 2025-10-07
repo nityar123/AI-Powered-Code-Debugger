@@ -26,21 +26,27 @@ Built with **Python**, **Flask**, and the **OpenAI API**, it supports multiple p
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone the repository
-```bash
+# 1. Clone the repository
 git clone https://github.com/<your-username>/ai_code_debugger.git
 cd ai_code_debugger
 
-### 2. Create a virtual environment
+# 2. Create a virtual environment
 python3 -m venv venv
-source venv/bin/activate
+source venv/bin/activate     # On Windows: venv\Scripts\activate
 
-### 3. Add you OpenAI API key
+# 3. Install dependencies
+pip install flask openai python-dotenv
+
+# 4. Add your OpenAI API key
+# (Create a .env file in the root directory and add this line)
 OPENAI_API_KEY=your_api_key_here
 
-4. flask run
+# 5. Run the Flask app
+flask run
 
-5. Open your broswer
+# 6. Open your browser and go to
+# http://127.0.0.1:5000/
+
 
 
 
