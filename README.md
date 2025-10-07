@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Code Debugger
+# AI-Powered Code Debugger
 
 A web-based tool that helps developers identify **syntax and logic errors** in their code using **AI-generated debugging feedback**.  
 Built with **Python**, **Flask**, and the **OpenAI API**, it supports multiple programming languages including **Python**, **Java**, and **JavaScript**.
